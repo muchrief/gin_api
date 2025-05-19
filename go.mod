@@ -1,4 +1,4 @@
-module github.com/muchtar-syarief/gin_api
+module github.com/muchrief/gin_api
 
 go 1.24.2
 
